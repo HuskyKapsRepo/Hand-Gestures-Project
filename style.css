@@ -1,0 +1,51 @@
+body
+{
+background: lightblue;
+color: black;
+}
+
+span
+{
+font-size: 30px;
+}
+
+#header
+{
+    color:white;
+    background: darkgray;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 500px;
+    border-radius: 10%;
+    border-style: solid;
+}
+
+.divs
+{
+    color:aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#camera , #result
+{
+  border: 4px solid darkgray;
+  width: 400px;
+  height: 350px; 
+}
+#hand_gesture_name
+{
+  color: black;
+  font-size: 50px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading 
+{
+  font-size: 25px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
